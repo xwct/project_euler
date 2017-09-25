@@ -1,6 +1,0 @@
-!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-fac	/Users/ole/code/python/project_euler/primefac.py	/^fac = 0$/;"	v	language:Python
-i	/Users/ole/code/python/project_euler/primefac.py	/^    i = i + 1$/;"	v	language:Python
-i	/Users/ole/code/python/project_euler/primefac.py	/^i = 2$/;"	v	language:Python
-num	/Users/ole/code/python/project_euler/primefac.py	/^        num = num \/ i$/;"	v	language:Python
-num	/Users/ole/code/python/project_euler/primefac.py	/^num = 600851475143$/;"	v	language:Python

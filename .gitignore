@@ -1,0 +1,15 @@
+__pychache__/
+*.py[cod]
+
+tags
+
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
